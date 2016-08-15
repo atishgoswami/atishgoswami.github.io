@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>TechnoBlog</title>
+        <description>A blog on all things web design, developement, server administration and more.</description>
+        <link>http://atishgoswami.com/</link>
+        <atom:link href="http://atishgoswami.com/feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Mon, 15 Aug 2016 22:10:13 +0530</pubDate>
+        <lastBuildDate>Mon, 15 Aug 2016 22:10:13 +0530</lastBuildDate>
+        <generator>Jekyll v3.1.6</generator>
+        
+            <item>
+                <title>Cmder :: Command prompt alternative for Windows</title>
+                <description>&lt;p&gt;Recently, I had to change my development environment from Linux to Windows at my new work place. I had used windows before but never for development, mostly only for gaming.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;So everything was working out well for me, till I started using the windows command prompt, long story short it SUCKS !!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-command-prompt&quot;&gt;The Command Prompt&lt;/h2&gt;
+
+&lt;p&gt;Well, if you are already using windows you know what I talking about, the command prompt for windows is pretty premitive and does not do much&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/posts/2014-08-31/cmd.png&quot; alt=&quot;Command Prompt&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The GUI is pretty basic&lt;/li&gt;
+  &lt;li&gt;It doesnot support color output&lt;/li&gt;
+  &lt;li&gt;Copy and pasting content is a hassle&lt;/li&gt;
+  &lt;li&gt;Cannot make it go full screen without adjustments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finding-an-alternative&quot;&gt;Finding an alternative&lt;/h2&gt;
+
+&lt;p&gt;So my search began to find an alternative to this problem. I was quite sure that somebody out there might has already developed something that I can use to solve my problem.&lt;/p&gt;
+
+&lt;p&gt;After a day or so of googling I was not disappointed, turns out I was not the only one frusted with the windows command prompt, and luckly there are were a lot of alternatives out there.&lt;/p&gt;
+
+&lt;p&gt;I finally narrowed it down to a few which I thought were pretty awesome&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://babun.github.io/&quot; target=&quot;_blank&quot;&gt;Babun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cmder.net/&quot; target=&quot;_blank&quot;&gt;Cmder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://conemu.github.io/&quot; target=&quot;_blank&quot;&gt;Conemu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cygwin.com/&quot; target=&quot;_blank&quot;&gt;Cygwin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cmder-was-the-winner&quot;&gt;Cmder was the winner&lt;/h2&gt;
+
+&lt;p&gt;I tried all the shortlisted alternatives one by one, all had there quirks and perks, but for me &lt;a href=&quot;http://cmder.net/&quot; target=&quot;_blank&quot;&gt;Cmder&lt;/a&gt; was a clear winner.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/posts/2014-08-31/cmder.png&quot; alt=&quot;Cmder&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There were couple of things I like really loved about it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GUI features of &lt;a href=&quot;https://conemu.github.io/&quot; target=&quot;_blank&quot;&gt;Conemu&lt;/a&gt; were used which covers all the Multi Tab, Split Screen Prompts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/posts/2014-08-31/cmder_split.png&quot; alt=&quot;Cmder Split Screen&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colorful and configurable&lt;/li&gt;
+  &lt;li&gt;Ability to integrate other command line emulators and switch within the application.&lt;/li&gt;
+  &lt;li&gt;Copying (just select the content using the mouse) and pasting (right-click to paste) content was a breeze&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;For now I am pretty happy with &lt;a href=&quot;http://cmder.net/&quot; target=&quot;_blank&quot;&gt;cmder&lt;/a&gt; as my command line alternative for windows for now and am still exploring a lot of new features everyday.&lt;/p&gt;
+
+&lt;p&gt;If you are a developer like me and stuck with windows for development you definately should give it a shot.&lt;/p&gt;
+</description>
+                <pubDate>Sat, 31 Jan 2015 00:00:00 +0530</pubDate>
+                <link>http://atishgoswami.com/tools/2015/01/31/cmder-installation/</link>
+                <guid isPermaLink="true">http://atishgoswami.com/tools/2015/01/31/cmder-installation/</guid>
+                
+                
+                    <category>Tools</category>
+                
+            </item>
+        
+    </channel>
+</rss>
